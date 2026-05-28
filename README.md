@@ -7,4 +7,4 @@
 - HAVING
 - AUTO_INCREMENT
 - Constraints
-- Altering
+- ALTER
