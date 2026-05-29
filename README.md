@@ -6,3 +6,5 @@
 - GROUP BY
 - HAVING
 - AUTO_INCREMENT
+- Constraints
+- ALTER
