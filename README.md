@@ -1,7 +1,7 @@
 ## Topics Covered
 - CRUD Operations
-- WHERE Clause
-- ORDER BY
+- WHERE
+- ORDER BY 
 - Aggregate Functions
 - GROUP BY
 - HAVING
