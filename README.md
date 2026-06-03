@@ -8,3 +8,6 @@
 - AUTO_INCREMENT
 - Constraints
 - ALTER
+- LIMIT
+- ALIASES
+- DISTINCT
