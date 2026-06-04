@@ -1,13 +1,14 @@
 ## Topics Covered
-- CRUD Operations
+- CRUD OPERATIONS
 - WHERE
 - ORDER BY 
-- Aggregate Functions
+- AGGREGATE FUNCTIONS
 - GROUP BY
 - HAVING
 - AUTO_INCREMENT
-- Constraints
+- CONSTRAINTS
 - ALTER
 - LIMIT
 - ALIASES
 - DISTINCT
+- SUBQUERIES
