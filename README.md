@@ -1,14 +1,36 @@
 ## Topics Covered
-- CRUD OPERATIONS
+
+- CRUD Operations
 - WHERE
-- ORDER BY 
-- AGGREGATE FUNCTIONS
+- ORDER BY
+- Aggregate Functions
 - GROUP BY
 - HAVING
 - AUTO_INCREMENT
-- CONSTRAINTS
+- Constraints
 - ALTER
 - LIMIT
-- ALIASES
+- Aliases
 - DISTINCT
-- SUBQUERIES
+- Joins
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - SELF JOIN
+- Subqueries
+  - Single-Row Subqueries
+  - Multi-Row Subqueries
+  - Correlated Subqueries
+- Views
+  - CREATE VIEW
+  - REPLACE VIEW
+  - DROP VIEW
+  - View Definition
+- Window Functions
+  - ROW_NUMBER()
+  - RANK()
+  - DENSE_RANK()
+  - SUM() OVER()
+  - AVG() OVER()
+  - LAG()
+  - LEAD()
