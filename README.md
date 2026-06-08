@@ -34,3 +34,4 @@
   - AVG() OVER()
   - LAG()
   - LEAD()
+- Common Table Expressions(CTE)
