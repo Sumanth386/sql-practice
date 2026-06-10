@@ -36,3 +36,4 @@
   - LEAD()
 - Common Table Expressions(CTE)
 - Transactions
+- Indexes
