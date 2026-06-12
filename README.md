@@ -37,3 +37,4 @@
 - Common Table Expressions(CTE)
 - Transactions
 - Indexes
+- Stored Procedures
