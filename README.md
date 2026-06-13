@@ -38,3 +38,4 @@
 - Transactions
 - Indexes
 - Stored Procedures
+- Triggers
