@@ -39,3 +39,8 @@
 - Indexes
 - Stored Procedures
 - Triggers
+- - ACID Properties
+  - Atomicity
+  - Consistency
+  - Isolation
+  - Durability
